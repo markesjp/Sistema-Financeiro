@@ -3,7 +3,8 @@ Aqui está o `README.md` com o conteúdo em um bloco único:
 ```markdown
 # Sistema Financeiro
 
-Este é um sistema financeiro desenvolvido em C# para gerenciamento de finanças pessoais e empresariais. O projeto permite o controle de receitas, despesas, contas a pagar e receber, além de gerar relatórios financeiros detalhados.
+Este é um sistema financeiro desenvolvido em C# para gerenciamento de finanças pessoais e empresariais.
+O projeto permite o controle de receitas, despesas, contas a pagar e receber, além de gerar relatórios financeiros detalhados.
 
 ## Funcionalidades
 
